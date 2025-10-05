@@ -1,4 +1,4 @@
-# Hi, I'm Kalvin Pham 👋
+# Hi, I'm Kalvin Pham
 
 I am an aspiring **Software Engineer** who loves building projects and programming. I enjoy creating interactive, efficient, and functional applications that bring ideas to life.
 
@@ -6,7 +6,7 @@ I am an aspiring **Software Engineer** who loves building projects and programmi
 
 ---
 
-## 🧠 Skills
+## Skills
 
 **Languages:** Lua, Python, C++, C, JavaScript, HTML  
 **Frameworks & Libraries:** React, Node.js, Tailwind CSS  
@@ -15,10 +15,10 @@ I am an aspiring **Software Engineer** who loves building projects and programmi
 
 ---
 
-## 📫 Contact
+## Contact
 
 **Email:** [kalvinpham199@gmail.com](mailto:kalvinpham199@gmail.com)
 
 ---
 
-⭐️ *"Strive to write code that not only works but also teaches you something new."*
+"Strive to write code that not only works but also teaches you something new."*
