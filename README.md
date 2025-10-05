@@ -1,7 +1,6 @@
 # Hi, I'm Kalvin Pham 👋
 
-I am an aspiring **Software Engineer** who loves building projects and programming.  
-I enjoy creating interactive, efficient, and functional applications that bring ideas to life.
+I am an aspiring **Software Engineer** who loves building projects and programming. I enjoy creating interactive, efficient, and functional applications that bring ideas to life.
 
 **Goal:** To grow as a Software Engineer specializing in building innovative and impactful software solutions.
 
